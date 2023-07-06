@@ -23,3 +23,6 @@ This is Complete Starter Kit for Raspberry Pi 4B/3B/3B+/Pi400, \The kit includes
 * MAX7219 8x8 matrix: An LED matrix display that can show text and simple patterns.
 * S8050 and 2N9304 NPN transistors: Electronic switches used for amplification or switching applications.
 * 220 ohm / 1k ohm resistor: Resistors for controlling current flow and voltage levels in circuits.
+
+## Package Includes
+![Pacakge Lists](https://github.com/geeekpi/picsk/commit/658bc93dabd1acc2d60a1c21c278f5563fda7626#diff-8451e6123694e466bdd28a9fb24e34d68a5befaa622e258ae6625b7ccaedd6ff)

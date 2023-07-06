@@ -1,5 +1,5 @@
 # picsk
-* Picsk stands for Pi Complete Starter Kit. 
+* Picsk stands for Raspberry Pi Complete Starter Kit. 
 ## Description
 This is Complete Starter Kit for Raspberry Pi 4B/3B/3B+/Pi400, \The kit includes a variety of components and modules for building electronic projects. It contains an MPU6050 module, a 1-channel relay, a tilt sensor, a sound sensor, a T-type GPIO expansion board, a GPIO edge expansion board, an ultrasonic sensor, a DHT11 temperature and humidity sensor, an LCD1602 display module, a PIR sensor, a servo motor, a long breadboard, 40-pin jump wires, a WS2812 RGB light ring, an experiment platform plate, a 500W camera, R/G/B LED lights, a MAX7219 8x8 matrix, and S8050 and 2N9304 NPN transistors. Additionally, it includes 220 ohms and 1k ohm resistors.
 ## Features

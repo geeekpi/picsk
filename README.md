@@ -25,4 +25,4 @@ This is Complete Starter Kit for Raspberry Pi 4B/3B/3B+/Pi400, \The kit includes
 * 220 ohm / 1k ohm resistor: Resistors for controlling current flow and voltage levels in circuits.
 
 ## Package Includes
-![Pacakge Lists](清单2.jpg)
+![Pacakge Lists](picsk.jpg)
